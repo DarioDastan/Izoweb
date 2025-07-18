@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Izocrete - Professional B2B Website
 
 A modern, responsive website for Izocrete, a construction materials company based in Iraq. Built with React, TypeScript, and TailwindCSS.
@@ -158,6 +157,3 @@ This project is licensed under the ISC License.
 ---
 
 **Built with ❤️ for Izocrete - Building Smart. Living Cool.** 
-=======
-# Izoweb
->>>>>>> 08cbb131f23f0da1cb8454aab4668aa712c9ea17

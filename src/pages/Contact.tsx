@@ -296,7 +296,7 @@ const Contact: React.FC = () => {
           <div className="relative">
             <div className="w-full h-96 rounded-2xl shadow-lg border border-gray-200 overflow-hidden">
               <iframe
-                src="https://www.google.com/maps?q=35.48554194434211,45.42054161349448&z=16&output=embed"
+                src="https://www.google.com/maps?q=35.48581232130026,45.42070471421225&z=16&output=embed"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
